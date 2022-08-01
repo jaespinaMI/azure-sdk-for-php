@@ -1,12 +1,12 @@
 {
-    "name": "microsoft/windowsazure",
-    "description": "This project provides a set of PHP client libraries that make it easy to access Windows Azure tables, blobs, queues, service runtime and service management APIs.",
+    "name": "jaespina/windowsazure",
+    "description": "This project provides a set of PHP client libraries that make it easy to access Windows Azure tables, blobs, queues, service runtime and service management APIs. Updated package version",
     "keywords": [ "php", "azure", "sdk" ],
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Azure PHP SDK",
-            "email": "azurephpsdk@microsoft.com"
+            "name": "Jaespina",
+            "email": "jaespina@mediainteractiva.com"
         }
     ],
     "require": {
